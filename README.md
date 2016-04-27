@@ -1,7 +1,7 @@
 # mySite
-+ Added index.html
-+ Added css/
-+ Added css/index.css/
-+ Added JavaScript/
-+ Added JavaScript/simpleAlert.js/
-+ Edited README.md
+# Includes:
++ index.html
++ css/
++ css/index.css/
++ JavaScript/
++ JavaScript/simpleAlert.js/
