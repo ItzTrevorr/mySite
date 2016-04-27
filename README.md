@@ -1,6 +1,6 @@
 # mySite
 + My JavaScript Programs, made easy to learn.
-# Includes:
+++ Includes:
 + index.html
 + css/
 + css/index.css/
