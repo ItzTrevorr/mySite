@@ -1,4 +1,5 @@
 # mySite
++ My JavaScript Programs, made easy to learn.
 # Includes:
 + index.html
 + css/
